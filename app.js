@@ -2,4 +2,4 @@ let num1 = 5;
 let num2 = 4;
 let suma = num1 + num2;
 
-console.log(`el resultado es ${suma}`);
+console.log(`el resultado es: ${suma}`);
